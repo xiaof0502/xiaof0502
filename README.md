@@ -26,6 +26,7 @@ Here are some ideas to get you started:
 - EN Site Profile:
 - [stackoverflow](https://stackoverflow.com/users/1653657/inter18099)
 - [Coursera](https://www.coursera.org/user/62e6d7edc6d9b9e39985cb1c220da0fb)
+- [Edx](https://profile.edx.org/u/singwind)
 
 - CN Site Profile:
 - [思否.com Profile](https://segmentfault.com/u/inter18099)
