@@ -22,6 +22,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: Read SICP 10 years before, and haven't finished yet :)
 - ⚡ Fun fact: I started coding in 2011 when I was in college :)
 
-- [Segmentfault.com](https://segmentfault.com/u/inter18099)
-- [Personal site: 凛风](https://fengrin.me/)
-- [Coding blog](https://road.fengrin.me/)
+
+- EN Site Profile:
+- [stackoverflow](https://stackoverflow.com/users/1653657/inter18099)
+- [Coursera](https://www.coursera.org/user/62e6d7edc6d9b9e39985cb1c220da0fb)
+
+- CN Site Profile:
+- [My Segmentfault.com Profile](https://segmentfault.com/u/inter18099)
+- [My Personal Site: 凛风](https://fengrin.me/)
+- [My Coding Blog](https://road.fengrin.me/)
