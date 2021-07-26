@@ -28,6 +28,6 @@ Here are some ideas to get you started:
 - [Coursera](https://www.coursera.org/user/62e6d7edc6d9b9e39985cb1c220da0fb)
 
 - CN Site Profile:
-- [My Segmentfault.com Profile](https://segmentfault.com/u/inter18099)
+- [思否.com Profile](https://segmentfault.com/u/inter18099)
 - [My Personal Site: 凛风](https://fengrin.me/)
 - [My Coding Blog](https://road.fengrin.me/)
